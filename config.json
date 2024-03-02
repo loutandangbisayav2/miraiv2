@@ -10,10 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "bot",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
+        "100065875311382",
         "USERID2"
     ],
     "DATABASE": {
